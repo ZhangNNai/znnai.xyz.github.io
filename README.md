@@ -1,2 +1,2 @@
-# znnai.xyz.github.io
+# znnai
 just play
